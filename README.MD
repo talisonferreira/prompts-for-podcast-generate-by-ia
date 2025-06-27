@@ -88,4 +88,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com 💜 por [Talison Ferreira](https://github.com/talisonferreira)
+Por [Talison Ferreira](https://github.com/talisonferreira)
